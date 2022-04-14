@@ -1,1 +1,9 @@
 # Assignment-Restaurant
+
+Class Assignment ~ Restaurant
+
+Here is the link to my wireframe (microsoft whiteboard):
+
+https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzQ4YTljYjgyNWEyMTRiOGVhZjk2NTk5ODg2YTJkNDExXzhkMjY1ZTRjLTkzMDYtNDliNy05MmJiLTYxY2E4MjFmNTNiNV9hOTgzZDY4Ny1hMzE1LTQ4MWYtYTJhYy04YjY1MGNlZmU0N2Y=
+
+
