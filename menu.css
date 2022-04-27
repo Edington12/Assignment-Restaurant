@@ -1,0 +1,154 @@
+.gridlayouttastingpics {
+    display: grid;
+    background-color: black; 
+    padding: 20px;
+    grid-template-columns: auto auto auto auto;
+
+}
+.griditem {
+    background-color: black;
+    border: 5px solid white;
+    padding: 8px;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin: 16px;
+    
+    }
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.flex-containermenu1 {
+    padding: 2px;
+    margin: 50px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    height: 750px;
+    width: 750x;
+    line-height: 100px;
+
+}
+
+.flex-item1 {
+    background: url("images/Rustic\ Menu\ Background\ Image\ \(1\).jpg");
+    text-align: center;
+    text-shadow: black;
+    font-style: italic;
+    font-weight:bolder;
+    color: whitesmoke;
+    margin: 3px;
+    line-height: 100px;
+    
+    
+
+
+}
+
+.flex-item2 {
+    background: url("images/Rustic\ Menu\ Background\ Image\ \(1\).jpg");
+    text-align: center;
+    text-shadow: black;
+    font-style: italic;
+    font-weight: bolder;
+    color: whitesmoke;
+    margin: 3px;
+    line-height: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.left {
+
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    animation-name: leftmenubox;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: 10;
+    animation-direction: alternate-reverse;
+    position:relative;
+    background-position-x: left;
+    background-position-y: left;
+
+}*/
+
+
+
+
+
+/*@keyframes leftmenubox {
+from {background-color: blue;}
+    to {background-color: purple;
+        transform: translate(50vw, 50vh);}
+    /*0% {background-color: blue; left: 0px; top: 0px; }
+    25% {background-color: purple; left: -200px; top: 0px; }
+    50% {background-color: green; left: -200px; top: 200px; }
+    75% {background-color: yellow; left: 0px; top: 200px; }
+    100% {background-color: red; left: 0px; top: 0px; }
+
+
+
+
+
+}*/
+
+/*.right {
+
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+    animation-name: rightmenubox;
+    animation-duration: 15s;
+    animation-delay: 8s;
+    animation-iteration-count: 10;
+    animation-direction: normal;
+    position: sticky;
+    background-position-x: right;
+    background-position-y: right;
+    
+}*/
+
+/*@keyframes rightmenubox {
+    0% {background-color: blue; right: 0px; top: 0px; }
+    25% {background-color: purple; right: 200px; top: 0px; }
+    50% {background-color: green; right: 200px; top: 200px; }
+    75% {background-color: yellow; right: 0px; top: 200px; }
+    100% {background-color: red; right: 0px; top: 0px; }
+
+
+
+
+
+
+}*/
+
+
+
+
+

@@ -1,0 +1,107 @@
+body {
+
+
+background-image: url("images/Outdoor\ area\ \(2\).webp");
+background-color: bisque;
+background-repeat: center center;
+background-attachment:inherit;
+background-size: contain;
+background-position: center;
+background-position: top 6px;
+
+}
+
+
+.story {
+
+    color: white;
+    font-stretch: condensed;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*font-weight: bold;*/
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /*text-shadow: -1px 1px 0 hsl(180, 45%, 98%);*/
+
+
+} 
+
+.locationdetails {
+    /*text-align: center;*/
+    color: darkblue;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: left;
+    /*text-decoration-style: dashed;
+    text-decoration-line: underline;
+    text-decoration-color: blueviolet;*/
+    text-shadow: -1px 1px 0px fuchsia;
+
+}
+
+.locationintro {
+    text-align: center;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    font-size: 20px;
+}
+
+.owner {
+    float:left;
+    padding: 8px;
+    margin: 41px;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-color: indigo;
+    text-decoration-line:underline;
+
+}
+
+.executivechef {
+    float:left;
+    padding: 8px;
+    margin: 51px;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-color: indigo;
+    text-decoration-line: underline;
+}
+
+.fohmanager {
+    float:left;
+    padding: 8px;
+    margin: 61px;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-color: indigo;
+    text-decoration-line:underline;
+}
+
+.address1 {
+    color: navy;
+    font-weight: bold;
+    text-shadow: -1px 1px 0 hsl(180, 45%, 98%);
+}
+
+.socials {
+    color: black;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 18px;
+    text-shadow: -1px 1px 0 hsl(180, 45%, 98%);
+}

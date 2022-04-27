@@ -1,0 +1,84 @@
+/*div hp background pic {
+
+background-image: "images/The French Laundry ~ Web Design Class Restaurant (1).webp";
+background-repeat: no-repeat;
+background-size: auto;}*/
+
+
+
+
+body {
+
+    background-image: url("images/The\ French\ Laundry\ ~\ Web\ Design\ Class\ Restaurant\ \(1\).webp");
+    background-color: bisque;
+    background-repeat: no-repeat center center fixed;
+    background-attachment:inherit;
+    background-size: cover;
+    background-position: center;
+    /*background-position: top 6px;*/
+    /*background-position-x: 2px;
+    background-position-y: 2px;
+    background-size: auto;
+    background-position: padding 3px;
+    background-position: left 100px;
+    background-position: right 100px;
+    background-position: top 100px;
+    background-position: bottome 100px;*/
+
+
+}
+
+.headinghome {
+    padding: -25px 100px 50px;
+
+
+}
+
+footer {
+    display: block;
+    /*display:inline-flexbox;*/
+    position: absolute; 
+    bottom: 0%; 
+    width:100%; 
+    height:auto;
+    text-align: center;
+    padding: 1px;
+    /*padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;*/
+    background-color: lightskyblue;
+    font-style: italic;
+    font-size: 12px;
+    
+
+
+}
+
+ 
+h1 {
+    /*position: static;*/
+    padding: -25px -100px 50px;
+    /*border-bottom:inherit;
+    border-bottom-color: purple;*/
+    border-style: double;
+    border-left: center;
+    border-right: center;
+    text-shadow: white;
+    display: inline;
+    margin-left: 23%;
+    margin-top: 100px;
+    /*padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;*/
+
+
+}
+
+p1 {
+    text-shadow: -1px 1px 0 hsl(180, 45%, 98%);
+    padding: -25px 50px 100px;
+    /*text-shadow: -1px 1px 0 blue;*/
+}
+
